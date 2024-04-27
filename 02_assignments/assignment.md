@@ -34,10 +34,35 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 
 **What is the secret password?**
 ```
-Your answer here...
+# 1. 
+Ryan@DESKTOP-386HHHO MINGW64 ~/Desktop/DSI_DEMO/shell/02_assignments/clues/food/cake (main)
+$ code vanilla_cake.txt
+# Paper Rings
 
+# 2.
+Ryan@DESKTOP-386HHHO MINGW64 ~/Desktop/DSI_DEMO/shell/02_assignments/clues/shows/friends (main)
+$ ls -LR
+# season_10
 
+# 3.
+Ryan@DESKTOP-386HHHO MINGW64 ~/Desktop/DSI_DEMO/shell/02_assignments/clues/shows/friends/season_6 (main)       
+$ code ep_21.txt
+# Meets
 
+# 4.
+Ryan@DESKTOP-386HHHO MINGW64 ~/Desktop/DSI_DEMO/shell/02_assignments/clues/movies/space_wars (main)
+$ code fifth_movie.txt
+# Legacies
+
+# 5.
+Ryan@DESKTOP-386HHHO MINGW64 ~/Desktop/DSI_DEMO/shell/02_assignments/clues/albums/red (main)
+$ code song_5.txt
+# Lucky
+
+# 6.
+Ryan@DESKTOP-386HHHO MINGW64 ~/Desktop/DSI_DEMO/shell/02_assignments/clues/movies/hanger_games (main)
+$ code movie_4.txt
+# Stars (Assumed "&" did not count as a word)
 
 ```
 
